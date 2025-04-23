@@ -1,7 +1,6 @@
 # CyberGaurd
 CyberGuard is a web-based password strength analyzer designed to enhance digital security awareness by evaluating password strength, length, and estimated time to crack. The tool provides real-time feedback to users, empowering them to create more secure passwords and better protect their online presence.
-# Let's create the README.md file content for the CyberGuard project.
-readme_content = """
+Link of the Project https://cybergaurd.vercel.app/
 # 🔐 CyberGuard - Password Strength Checker
 
 CyberGuard is a simple and powerful web-based tool that checks your password strength and estimates the time it would take to crack it. It helps users create stronger passwords and improve their digital safety.
